@@ -12,4 +12,4 @@ hello Huateng !
 hello Huateng !
 hello Huateng !
 hello Huateng ! master test
-hello Huateng !
+hello Huateng ! hot-fix test
